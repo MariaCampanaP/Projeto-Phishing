@@ -23,7 +23,7 @@ Este projeto é uma simulação de um ataque de phishing, que utiliza uma págin
 ## ☕︎ Instalação
 1. Clone este repositório:
   ```bash
-   git clone https://github.com/MariaCampanaP/projeto-phishing.git
+   git clone https://github.com/MariaCampanaP/Projeto-Phishing.git
   ```
 2. Navegue até a pasta do projeto:
    ```bash
